@@ -1,0 +1,23 @@
+﻿  main.cpp
+r:\程序\vs项目\facedectector\facedectector\trainer.h(73): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+r:\程序\vs项目\facedectector\facedectector\trainer.h(197): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+r:\程序\vs项目\facedectector\facedectector\trainer.h(227): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+r:\程序\vs项目\facedectector\facedectector\trainer.h(343): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+r:\程序\vs项目\facedectector\facedectector\detect.h(101): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+r:\程序\vs项目\facedectector\facedectector\detect.h(122): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+r:\程序\vs项目\facedectector\facedectector\detect.h(123): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+r:\程序\vs项目\facedectector\facedectector\detect.h(124): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+r:\程序\vs项目\facedectector\facedectector\detect.h(125): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+r:\程序\vs项目\facedectector\facedectector\detect.h(128): warning C4244: “/=”: 从“float”转换到“int”，可能丢失数据
+r:\程序\vs项目\facedectector\facedectector\detect.h(129): warning C4244: “/=”: 从“float”转换到“int”，可能丢失数据
+r:\程序\vs项目\facedectector\facedectector\detect.h(130): warning C4244: “/=”: 从“float”转换到“int”，可能丢失数据
+r:\程序\vs项目\facedectector\facedectector\detect.h(131): warning C4244: “/=”: 从“float”转换到“int”，可能丢失数据
+main.cpp(65): warning C4305: “初始化”: 从“double”到“float”截断
+main.cpp(97): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码
+  8 of 835 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  FaceDectector.vcxproj -> R:\程序\vs项目\FaceDectector\x64\Release\FaceDectector.exe
+  FaceDectector.vcxproj -> R:\程序\vs项目\FaceDectector\x64\Release\FaceDectector.pdb (Full PDB)

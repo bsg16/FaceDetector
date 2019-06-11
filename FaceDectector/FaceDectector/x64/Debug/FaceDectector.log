@@ -1,0 +1,8 @@
+﻿  main.cpp
+r:\程序\vs项目\facedectector\facedectector\trainer.h(73): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+r:\程序\vs项目\facedectector\facedectector\trainer.h(197): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+r:\程序\vs项目\facedectector\facedectector\trainer.h(227): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+r:\程序\vs项目\facedectector\facedectector\trainer.h(348): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+r:\程序\vs项目\facedectector\facedectector\main.cpp(72): warning C4305: “初始化”: 从“double”到“float”截断
+  FaceDectector.vcxproj -> R:\程序\vs项目\FaceDectector\x64\Debug\FaceDectector.exe
+  FaceDectector.vcxproj -> R:\程序\vs项目\FaceDectector\x64\Debug\FaceDectector.pdb (Full PDB)
